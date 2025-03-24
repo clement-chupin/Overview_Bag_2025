@@ -1,0 +1,85 @@
+## mapping_test_3_20_03_2025
+
+**Chemin complet** : `/data/synchro_data/Innodura/Agrivia/Données/2025_bag/mapping_test_3_20_03_2025`
+
+#### [Trajectoire GPS](gps_traj.html)
+
+### Images Associées
+
+<br/><span><img src='img_exemples/image_1742485503713497463.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485505147571776.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485506563048448.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485507900033962.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485509318053501.jpg' alt='drawing' width='300'/><br/><img src='img_exemples/image_1742485510771317005.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485512185912042.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485513496417370.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485515051172611.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485516366811578.jpg' alt='drawing' width='300'/><br/><img src='img_exemples/image_1742485517815214771.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485519133612362.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485520569299239.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485521987999968.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485523402559136.jpg' alt='drawing' width='300'/><br/><img src='img_exemples/image_1742485524746698064.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485526166154327.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485527583240538.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485528917617591.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1742485530289864827.jpg' alt='drawing' width='300'/><br/><img src='img_exemples/image_1742485531737596247.jpg' alt='drawing' width='300'/></span>
+### Metadata
+
+
+
+Files:             mapping_test_3_20_03_2025_0.db3
+
+Bag size:          1.2 GiB
+
+Storage id:        sqlite3
+
+Duration:          26.095988285s
+
+Start:             Mar 20 2025 16:45:05.969459543 (1742485505.969459543)
+
+End:               Mar 20 2025 16:45:32.065447828 (1742485532.065447828)
+
+Messages:          23675
+
+Topic information: Topic: /robot/imu/data | Type: sensor_msgs/msg/Imu | Count: 2597 | Serialization Format: cdr
+
+                   Topic: /robot/gps/vel | Type: geometry_msgs/msg/TwistStamped | Count: 242 | Serialization Format: cdr
+
+                   Topic: /robot/imu/mag | Type: sensor_msgs/msg/MagneticField | Count: 2598 | Serialization Format: cdr
+
+                   Topic: /robot/localisation/filtered_odom | Type: nav_msgs/msg/Odometry | Count: 260 | Serialization Format: cdr
+
+                   Topic: /robot/gps/ntrip/rtcm | Type: mavros_msgs/msg/RTCM | Count: 249 | Serialization Format: cdr
+
+                   Topic: /robot/imu/velocity | Type: geometry_msgs/msg/TwistStamped | Count: 2598 | Serialization Format: cdr
+
+                   Topic: /robot/gps/nmea_sentence | Type: nmea_msgs/msg/Sentence | Count: 780 | Serialization Format: cdr
+
+                   Topic: /robot/localisation/attitude | Type: romea_localisation_msgs/msg/ObservationAttitudeStamped | Count: 2598 | Serialization Format: cdr
+
+                   Topic: /robot/localisation/status | Type: romea_localisation_msgs/msg/LocalisationStatus | Count: 260 | Serialization Format: cdr
+
+                   Topic: /alpo/camera/image_synchro | Type: sensor_msgs/msg/Image | Count: 141 | Serialization Format: cdr
+
+                   Topic: /robot/localisation/angular_speed | Type: romea_localisation_msgs/msg/ObservationAngularSpeedStamped | Count: 2598 | Serialization Format: cdr
+
+                   Topic: /alpo/lidar/pointcloud_synchro | Type: sensor_msgs/msg/PointCloud2 | Count: 141 | Serialization Format: cdr
+
+                   Topic: /robot/joint_states | Type: sensor_msgs/msg/JointState | Count: 2599 | Serialization Format: cdr
+
+                   Topic: /tf | Type: tf2_msgs/msg/TFMessage | Count: 724 | Serialization Format: cdr
+
+                   Topic: /robot/joystick/joy | Type: sensor_msgs/msg/Joy | Count: 332 | Serialization Format: cdr
+
+                   Topic: /robot/gps/fix | Type: sensor_msgs/msg/NavSatFix | Count: 260 | Serialization Format: cdr
+
+                   Topic: /parameter_events | Type: rcl_interfaces/msg/ParameterEvent | Count: 0 | Serialization Format: cdr
+
+                   Topic: /rosout | Type: rcl_interfaces/msg/Log | Count: 314 | Serialization Format: cdr
+
+                   Topic: /diagnostics | Type: diagnostic_msgs/msg/DiagnosticArray | Count: 216 | Serialization Format: cdr
+
+                   Topic: /robot/localisation/twist | Type: romea_localisation_msgs/msg/ObservationTwist2DStamped | Count: 259 | Serialization Format: cdr
+
+                   Topic: /robot/imu/imu_data_str | Type: std_msgs/msg/String | Count: 2598 | Serialization Format: cdr
+
+                   Topic: /tf_static | Type: tf2_msgs/msg/TFMessage | Count: 6 | Serialization Format: cdr
+
+                   Topic: /robot/localisation/position | Type: romea_localisation_msgs/msg/ObservationPosition2DStamped | Count: 261 | Serialization Format: cdr
+
+                   Topic: /robot/base/controller/odometry | Type: romea_mobile_base_msgs/msg/OneAxleSteeringMeasureStamped | Count: 260 | Serialization Format: cdr
+
+                   Topic: /robot/base/controller/odom | Type: nav_msgs/msg/Odometry | Count: 261 | Serialization Format: cdr
+
+                   Topic: /robot/robot_description | Type: std_msgs/msg/String | Count: 1 | Serialization Format: cdr
+
+                   Topic: /robot/base/bridge/vehicle_controller/odom | Type: nav_msgs/msg/Odometry | Count: 261 | Serialization Format: cdr
+
+                   Topic: /robot/localisation/course | Type: romea_localisation_msgs/msg/ObservationCourseStamped | Count: 261 | Serialization Format: cdr
+
+
+

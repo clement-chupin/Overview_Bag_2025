@@ -1,0 +1,30 @@
+
+Files:             loop_auto_2_20_02_2025_0.db3
+Bag size:          4.8 GiB
+Storage id:        sqlite3
+Duration:          121.611584945s
+Start:             Feb 20 2025 14:44:23.440421017 (1740059063.440421017)
+End:               Feb 20 2025 14:46:25.052005962 (1740059185.052005962)
+Messages:          79954
+Topic information: Topic: /robot/gps/ntrip/rtcm | Type: mavros_msgs/msg/RTCM | Count: 1476 | Serialization Format: cdr
+                   Topic: /robot/gps/nmea_sentence | Type: nmea_msgs/msg/Sentence | Count: 3648 | Serialization Format: cdr
+                   Topic: /robot/imu/data | Type: sensor_msgs/msg/Imu | Count: 12159 | Serialization Format: cdr
+                   Topic: /robot/base/controller/odometry | Type: romea_mobile_base_msgs/msg/OneAxleSteeringMeasureStamped | Count: 1216 | Serialization Format: cdr
+                   Topic: /robot/base/controller/odom | Type: nav_msgs/msg/Odometry | Count: 1215 | Serialization Format: cdr
+                   Topic: /robot/robot_description | Type: std_msgs/msg/String | Count: 1 | Serialization Format: cdr
+                   Topic: /robot/base/bridge/vehicle_controller/odom | Type: nav_msgs/msg/Odometry | Count: 1216 | Serialization Format: cdr
+                   Topic: /robot/gps/fix | Type: sensor_msgs/msg/NavSatFix | Count: 1216 | Serialization Format: cdr
+                   Topic: /parameter_events | Type: rcl_interfaces/msg/ParameterEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /rosout | Type: rcl_interfaces/msg/Log | Count: 1295 | Serialization Format: cdr
+                   Topic: /diagnostics | Type: diagnostic_msgs/msg/DiagnosticArray | Count: 1078 | Serialization Format: cdr
+                   Topic: /robot/imu/imu_data_str | Type: std_msgs/msg/String | Count: 12160 | Serialization Format: cdr
+                   Topic: /tf_static | Type: tf2_msgs/msg/TFMessage | Count: 6 | Serialization Format: cdr
+                   Topic: /robot/imu/velocity | Type: geometry_msgs/msg/TwistStamped | Count: 12159 | Serialization Format: cdr
+                   Topic: /alpo/lidar/pointcloud_synchro | Type: sensor_msgs/msg/PointCloud2 | Count: 583 | Serialization Format: cdr
+                   Topic: /robot/joystick/joy | Type: sensor_msgs/msg/Joy | Count: 1043 | Serialization Format: cdr
+                   Topic: /robot/gps/vel | Type: geometry_msgs/msg/TwistStamped | Count: 1207 | Serialization Format: cdr
+                   Topic: /robot/imu/mag | Type: sensor_msgs/msg/MagneticField | Count: 12159 | Serialization Format: cdr
+                   Topic: /tf | Type: tf2_msgs/msg/TFMessage | Count: 3374 | Serialization Format: cdr
+                   Topic: /robot/joint_states | Type: sensor_msgs/msg/JointState | Count: 12160 | Serialization Format: cdr
+                   Topic: /alpo/camera/image_synchro | Type: sensor_msgs/msg/Image | Count: 583 | Serialization Format: cdr
+

@@ -1,0 +1,71 @@
+## test_new_config_3
+
+**Chemin complet** : `/data/synchro_data/Innodura/Agrivia/Données/2025_bag/test_new_config_3`
+
+#### [Trajectoire GPS](gps_traj.html)
+
+### Images Associées
+
+<br/><span><img src='img_exemples/image_1739959637493734330.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1739959640693824198.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1739959643804232889.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1739959647083693277.jpg' alt='drawing' width='300'/><img src='img_exemples/image_1739959650301151187.jpg' alt='drawing' width='300'/><br/></span>
+### Metadata
+
+
+
+Files:             test_new_config_3_0.db3
+
+Bag size:          563.1 MiB
+
+Storage id:        sqlite3
+
+Duration:          13.284192206s
+
+Start:             Feb 19 2025 11:07:16.844644276 (1739959636.844644276)
+
+End:               Feb 19 2025 11:07:30.128836482 (1739959650.128836482)
+
+Messages:          8471
+
+Topic information: Topic: /robot/imu/data | Type: sensor_msgs/msg/Imu | Count: 1317 | Serialization Format: cdr
+
+                   Topic: /robot/base/controller/odometry | Type: romea_mobile_base_msgs/msg/OneAxleSteeringMeasureStamped | Count: 132 | Serialization Format: cdr
+
+                   Topic: /robot/base/controller/odom | Type: nav_msgs/msg/Odometry | Count: 131 | Serialization Format: cdr
+
+                   Topic: /robot/gps/nmea_sentence | Type: nmea_msgs/msg/Sentence | Count: 396 | Serialization Format: cdr
+
+                   Topic: /alpo/camera/image_synchro | Type: sensor_msgs/msg/Image | Count: 66 | Serialization Format: cdr
+
+                   Topic: /robot/gps/ntrip/rtcm | Type: mavros_msgs/msg/RTCM | Count: 138 | Serialization Format: cdr
+
+                   Topic: /robot/gps/fix | Type: sensor_msgs/msg/NavSatFix | Count: 132 | Serialization Format: cdr
+
+                   Topic: /parameter_events | Type: rcl_interfaces/msg/ParameterEvent | Count: 0 | Serialization Format: cdr
+
+                   Topic: /rosout | Type: rcl_interfaces/msg/Log | Count: 213 | Serialization Format: cdr
+
+                   Topic: /diagnostics | Type: diagnostic_msgs/msg/DiagnosticArray | Count: 119 | Serialization Format: cdr
+
+                   Topic: /robot/robot_description | Type: std_msgs/msg/String | Count: 1 | Serialization Format: cdr
+
+                   Topic: /robot/base/bridge/vehicle_controller/odom | Type: nav_msgs/msg/Odometry | Count: 133 | Serialization Format: cdr
+
+                   Topic: /robot/imu/imu_data_str | Type: std_msgs/msg/String | Count: 1318 | Serialization Format: cdr
+
+                   Topic: /tf_static | Type: tf2_msgs/msg/TFMessage | Count: 6 | Serialization Format: cdr
+
+                   Topic: /robot/imu/velocity | Type: geometry_msgs/msg/TwistStamped | Count: 1318 | Serialization Format: cdr
+
+                   Topic: /alpo/lidar/pointcloud_synchro | Type: sensor_msgs/msg/PointCloud2 | Count: 66 | Serialization Format: cdr
+
+                   Topic: /robot/gps/vel | Type: geometry_msgs/msg/TwistStamped | Count: 0 | Serialization Format: cdr
+
+                   Topic: /robot/joystick/joy | Type: sensor_msgs/msg/Joy | Count: 112 | Serialization Format: cdr
+
+                   Topic: /robot/imu/mag | Type: sensor_msgs/msg/MagneticField | Count: 1318 | Serialization Format: cdr
+
+                   Topic: /tf | Type: tf2_msgs/msg/TFMessage | Count: 238 | Serialization Format: cdr
+
+                   Topic: /robot/joint_states | Type: sensor_msgs/msg/JointState | Count: 1317 | Serialization Format: cdr
+
+
+
