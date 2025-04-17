@@ -1,6 +1,6 @@
 ## mapping_test_3_20_03_2025
 
-**Chemin complet** : `/data/synchro_data/Innodura/Agrivia/Données/2025_bag/mapping_test_3_20_03_2025`
+**Chemin complet** : `/data/synchro_data/Innodura/Agrivia/Données/2025_bag_0/mapping_test_3_20_03_2025`
 
 #### [Trajectoire GPS](gps_traj.html)
 

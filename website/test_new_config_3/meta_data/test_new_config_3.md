@@ -1,6 +1,6 @@
 ## test_new_config_3
 
-**Chemin complet** : `/data/synchro_data/Innodura/Agrivia/Données/2025_bag/test_new_config_3`
+**Chemin complet** : `/data/synchro_data/Innodura/Agrivia/Données/2025_bag_0/test_new_config_3`
 
 #### [Trajectoire GPS](gps_traj.html)
 
